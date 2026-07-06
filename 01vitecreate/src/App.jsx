@@ -1,7 +1,9 @@
+import Ajay from './ajay';
+
 function App() {
 
   return (
-   <h1>hello</h1>
+    <Ajay />
   )
 }
 
